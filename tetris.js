@@ -1,7 +1,7 @@
 const canvas = document.getElementById('tetris');
 const ctx = canvas.getContext('2d');
 const blockSize = 30;
-const rows = 20;
+const rows = 22 ;
 const cols = 10;
 
 let grid;
